@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    text-align: center;
+    padding: 30px;
+}
+
+#container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.members{
+    margin-bottom: 50px;
+}
+
+
+div p{
+    background-color: rgba(250, 235, 215, 0.607);
+    text-align: center;
+    padding: 10px 0;
+}
